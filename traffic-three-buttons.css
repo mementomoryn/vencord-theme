@@ -1,0 +1,36 @@
+.withFrame-2dL45i {
+	height: 20px;
+}
+.typeWindows-2-g3UY .winButton-3UMjdg > svg {
+	display: none;
+}
+.typeWindows-2-g3UY .winButton-3UMjdg {
+	top: 0;
+	width: 18px;
+	height: 11.2px;
+	margin: 3px 0px 0px 12px;
+	border-radius: 9999px;
+}
+.typeWindows-2-g3UY .winButton-3UMjdg::after {
+	content: '';
+	height: 16px;
+	width: 16px;
+	border-radius: 9999px;
+}
+.typeWindows-2-g3UY .winButtonClose-3Q8ZH5::after {
+	background-color: hsl(350, 50%, 50%) !important;
+}
+.typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3)::after {
+	background-color: hsl(150, 50%, 50%) !important;
+}
+.typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(4)::after {
+	background-color: hsl(50, 50%, 50%) !important;
+}
+.typeWindows-2-g3UY > div:hover::after {
+	transform: scale(1.15);
+  animation-timing-function: ease-in-out;
+  animation-duration: 180ms;
+}
+.typeWindows-2-g3UY > div:active::after {
+	transform: scale(1.25);
+}
