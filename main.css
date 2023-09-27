@@ -2,16 +2,16 @@
 * Import all CSS files 
 */
 
-@import url('colors.css');
-@import url('catpuccin-mocha.css');
-@import url('bettertitlebar.css');
-@import url('fluent-status-icon.css');
-@import url('min-cards-addon.css');
-@import url('betterprofilepopout.css');
-@import url('roundiscord.css');
-@import url('tintrole.css');
-@import url('traffic-three-buttons.css');
-@import url('user-reimagined.css');
-@import url('no-nitro-reminder.css');
-@import url('custom-title.css');
-@import url('danger-zone.css');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/colors.css?token=GHSAT0AAAAAACIDEU77D2T65WTVES6WYDV4ZITQH6A');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/catpuccin-mocha.css?token=GHSAT0AAAAAACIDEU77BN6YCKKOWJ72AGG2ZITQIYQ');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/bettertitlebar.css?token=GHSAT0AAAAAACIDEU77RJEXAM7NBQP5OPT6ZITQJJA');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/fluent-status-icon.css?token=GHSAT0AAAAAACIDEU76D7XQDVWKOIN6WVCEZITQKJA');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/min-cards-addon.css?token=GHSAT0AAAAAACIDEU76LL77YJJ2T35YKOHIZITQLWA');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/min-cards-addon.css?token=GHSAT0AAAAAACIDEU76J45Q3OAHKKAVTSB2ZITQLJA');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/roundiscord.css?token=GHSAT0AAAAAACIDEU77BSJGTCK3GUGCPBQ2ZITQMDQ');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/tintrole.css?token=GHSAT0AAAAAACIDEU76A2WJMKQDLAQDH3FSZITQMPQ');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/traffic-three-buttons.css?token=GHSAT0AAAAAACIDEU77536ZURYZPTCCD5VAZITQM2Q');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/user-reimagined.css?token=GHSAT0AAAAAACIDEU76JRPR5CWSEMNES7SIZITQNJQ');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/no-nitro-reminder.css?token=GHSAT0AAAAAACIDEU77IESWKSSDU4HKLH2IZITQNUQ');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/custom-title.css?token=GHSAT0AAAAAACIDEU766DCDWWU3OJ5LAAOYZITQOAA');
+@import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/danger-zone.css?token=GHSAT0AAAAAACIDEU77PHKKHO5HHMJHY3PWZITQOMQ');
