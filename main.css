@@ -2,8 +2,6 @@
 * Import all CSS files 
 */
 
-/* @import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/better-modals.css'); */
-/* @import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/better-profile.css'); */
 @import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/bettertitlebar.css');
 @import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/catpuccin-mocha.css');
 @import url('https://raw.githubusercontent.com/mementomoryn/vencord-theme/main/cleanprofilepopout.css');
