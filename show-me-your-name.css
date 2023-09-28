@@ -2,9 +2,9 @@
 .vc-smyn-suffix:before {
     content: "@" !important
 }
-.vc-smyn-suffix:after {
+/* .vc-smyn-suffix:after {
     content: "" !important
-}
+} */
 .vc-smyn-suffix {
     color: currentColor !important;
     opacity: 0.7
@@ -27,11 +27,11 @@
     text-shadow: 0 0 5px black;
 }
 .contents-2MsGLg .username-h_Y3Us::after {
-    content: "wrote:"
+    content: " wrote:"
 }
 .hasReply-2Cr4KE .contents-2MsGLg .username-h_Y3Us::after {
-    content: "replied:"
+    content: " replied:"
 }
 .mentioned-Tre-dv .contents-2MsGLg .username-h_Y3Us::after {
-    content: "mentioned:";
+    content: " mentioned:";
 }
