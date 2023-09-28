@@ -2,9 +2,9 @@
 .vc-smyn-suffix:before {
     content: "@" !important
 }
-/* .vc-smyn-suffix:after {
+.vc-smyn-suffix:after {
     content: "" !important
-} */
+}
 .vc-smyn-suffix {
     color: currentColor !important;
     opacity: 0.7
