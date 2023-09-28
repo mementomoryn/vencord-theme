@@ -1,6 +1,6 @@
 /* ShowMeYourName plugin */
 .vc-smyn-suffix:before {
-    content: "@" !important
+    content: " @" !important
 }
 .vc-smyn-suffix:after {
     content: "" !important
