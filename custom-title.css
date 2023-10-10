@@ -1,22 +1,27 @@
 .wordmark-2u86JB {
-    pointer-events: unset;
-    padding: 0;
+	pointer-events: unset;
+	padding: 0;
 }
 .wordmark-2u86JB svg {
-    display: none;
+	display: none;
 }
 :root:has(#vencord-css-core) .wordmark-2u86JB::after {
-    position: absolute;
-    top: 4px;
-    padding: 0px 13px 2px;
-    font-size: 11.2px;
-    letter-spacing: 0.45px;
-    background: -webkit-linear-gradient(bottom left, var(--header-primary), var(--header-secondary), var(--text-link));
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    white-space: nowrap;
-    font-family: var(--font-headline);
-    content: "Memoir";
-    transform: scale(1);
+	position: absolute;
+	top: 4px;
+	padding: 0px 13px 2px;
+	font-size: 11.2px;
+	letter-spacing: 0.45px;
+	background: -webkit-linear-gradient(
+		bottom left,
+		var(--header-primary),
+		var(--header-secondary),
+		var(--text-link)
+	);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	white-space: nowrap;
+	font-family: var(--font-headline);
+	content: 'Memoir';
+	transform: scale(1);
 }
