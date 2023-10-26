@@ -1,22 +1,17 @@
-.wordmark-2u86JB {
+.wordmarkWindows-1rsity {
 	pointer-events: unset;
 	padding: 0;
 }
-.wordmark-2u86JB svg {
+.wordmarkWindows-1rsity svg {
 	display: none;
 }
-:root:has(#vencord-css-core) .wordmark-2u86JB::after {
+.wordmarkWindows-1rsity::after {
 	position: absolute;
 	top: 4px;
 	padding: 0px 13px 2px;
 	font-size: 11.2px;
 	letter-spacing: 0.45px;
-	background: -webkit-linear-gradient(
-		bottom left,
-		var(--header-primary),
-		var(--header-secondary),
-		var(--text-link)
-	);
+	background: -webkit-linear-gradient(bottom left, var(--header-primary), var(--header-secondary), var(--muted-text));
 	background-clip: text;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
