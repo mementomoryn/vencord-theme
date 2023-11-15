@@ -1,7 +1,6 @@
 @font-face {
 	font-family: 'Dashless';
-	src: url('https://vendicated.github.io/random-files/Dashless.woff2')
-		format('woff2');
+	src: url('https://vendicated.github.io/random-files/Dashless.woff2') format('woff2');
 	unicode-range: U+002D;
 }
 [data-list-item-id^=channels___], /* channel list */

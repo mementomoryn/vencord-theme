@@ -1,12 +1,19 @@
+/* 
+  Remove 6 lines limit in bios
+ */
+@import url(https://raw.githubusercontent.com/lumap/css-snippets/main/make-bios-long.css);
+/* 
+  Fix badges clipping out of their container in mini profiles
+ */
+@import url(https://raw.githubusercontent.com/lumap/css-snippets/main/double-row-badges-fix.css);
+/* 
+  Mini user popout
+ */
+@import url(https://raw.githubusercontent.com/lumap/css-snippets/main/clean-user-popout.css);
 
-[class*=accountProfilePopoutWrapper-] > div > div > [class*=userPopoutOverlayBackground-] > div:nth-child(1),
-[class*=accountProfilePopoutWrapper-] > div > div > [class*=userPopoutOverlayBackground-] > div:nth-child(2),
-[class*=accountProfilePopoutWrapper-] > div > div > [class*=userPopoutOverlayBackground-] > div:nth-child(3),
-[class*=accountProfilePopoutWrapper-] div[role=separator], .divider-2dDziJ, .divider-SH6OnO
-{
-  display: none;
-}
-
-:is([class*=userTagWithNickname], [class*=nameTagSmall]) span:only-child:before {
-    content: '@';
+/* 
+  Add '@' to username
+ */
+:is([class*='userTagWithNickname'], [class*='nameTagSmall']) span:only-child:before {
+	content: '@';
 }
