@@ -1,11 +1,11 @@
-.wordmarkWindows-1rsity {
+[class^='wordmarkWindows-'] {
 	pointer-events: unset;
 	padding: 0;
 }
-.wordmarkWindows-1rsity svg {
+[class^='wordmarkWindows-'] svg {
 	display: none;
 }
-.wordmarkWindows-1rsity::after {
+[class^='wordmarkWindows-']::after {
 	position: absolute;
 	top: 4px;
 	padding: 0px 13px 2px;
